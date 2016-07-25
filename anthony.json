@@ -4,7 +4,7 @@
     "label": "Senior Engineer and Developer",
     "picture": "http://data.boulder.swri.edu/anthony/Misc/anthony.jpg",
     "email": "anthony_egan@yahoo.com",
-    "phone": "",
+    "phone": "3037201108",
     "website": "",
     "summary": "",
     "location": {
@@ -14,18 +14,7 @@
       "countryCode": "",
       "region": "CO"
     },
-      "profiles": [
-          {
-              "network": "GitHub",
-              "username": "janef-was-here",
-              "url": "https://github.com/janef-was-here"
-          },
-          {
-              "network": "Twitter",
-              "username": "janef-was-here",
-              "url": "https://twitter.com/janef-was-here"
-          }
-      ] 
+      "profiles": []
   },
   "work": [
     {
@@ -92,115 +81,99 @@
     }
   ],
 
-  "volunteer": [
-    {
-      "flavor": "volunteer",
-      "organization": "Technology for Tots",
-      "position": "Technical Consultant",
-      "startDate": "2003-11",
-      "endDate": "2005-06",
-      "website": "http://technology-for-tots.org",
-      "summary": "Summary of this volunteer stint.",
-      "highlights": [
-        "Accomplishment 1",
-        "Accomplishment 2",
-        "etc"
-      ]
-    },
-    {
-      "flavor": "military",
-      "organization": "US Army Reserves",
-      "position": "NCO",
-      "startDate": "1999-11",
-      "endDate": "2003-06",
-      "website": "http://www.usar.army.mil/",
-      "summary": "Summary of this military stint.",
-      "highlights": [
-        "Accomplishment 1",
-        "Accomplishment 2",
-        "etc"
-      ]
-    }
-  ],
+    "volunteer": [],
   "awards": [
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: MRO SHARAD Science Team",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: US SHARAD Radar Sounder Processing and Analysis",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: The Lunar Reconnaissance Orbiter (LRO) Team",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: The Lunar Reconnaissance Orbiter (LRO) Exploration",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: MRO Comet Siding Spring Observing Team",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
+      {
+          "flavor": "award",
+          "title": "Group Achievement Award: The LRO Extended Science Mission Team",
+          "date": "2010-01-01",
+          "awarder": "NASA"
+      },
     {
       "flavor": "award",
-      "title": "Honorable Mention",
-      "date": "2012",
-      "awarder": "Google"
-    },
-    {
-      "flavor": "honor",
-      "title": "Summa cum laude",
-      "date": "2012",
-      "awarder": "Cornell University"
+      "title": "University President's Award for Excellence in Environmentalism",
+      "date": "2010-01-01",
+        "awarder": "University of South Dakota"
     }
   ],
-  "publications": [
+"publications": [
+{
+"name": "LRO-LAMP Observations of the LCROSS Impact Plume",
+"publisher": "Science Magazine (Cover Story)",
+"releaseDate": "2010-10-22",
+"website": "http://science.sciencemag.org/content/330/6003/472",
+"summary": ""
+},
+{
+"name": "Mars North Polar Deposits: Stratigraphy Age and Geodynamical Response",
+"publisher": "Science Magazine (Cover Story)",
+"releaseDate": "2008-05-30",
+"website": "http://science.sciencemag.org/content/320/5880/1182",
+"summary": ""
+}
+],
+"interests": [
     {
-      "name": "Building User Interfaces with Electron and Atom",
-      "publisher": "Code Project",
-      "releaseDate": "2011",
-      "website": "http://codeproject.com/build-ui-electron-atom.aspx"
-    },
-    {
-      "name": "Jane Fullstacker's Blog",
-      "publisher": "self",
-      "releaseDate": "2011",
-      "website": "http://janef.me"
-    },
-    {
-      "name": "Teach Yourself GORFF in 21 Days",
-      "publisher": "Amazon",
-      "releaseDate": "2008",
-      "website": "http://url.to.publication.com/blah",
-      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
-    }
-  ],
-  "interests": [
-    {
-      "name": "reading",
-      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "name": "Maker Dad",
+      "summary": "Anthony enjoys completing technical hobby projects with his son.",
       "keywords": [
-        "mystery",
-        "Agatha Christie",
-        "John Grisham"
+        "Cooking",
+        "Programming",
+        "Cub Scouts"
       ]
     },
     {
-      "name": "hiking",
-      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
-    },
-    {
-      "name": "yoga"
+      "name": "Outdoors",
+        "summary": "Anthony particularly enjoys walking trails in the Front Range.",
+        "keywords": [
+            "Hiking",
+            "Mountain Biking",
+            "Fishing"
+            ]
     }
   ],
-  "references": [
-    {
-      "name": "John Davidson",
-      "reference": "Jane is awesome! I'd hire her again in a heartbeat."
-    },
-    {
-      "name": "Dana Nevins",
-      "reference": "I've known Jane personally and professionally for almost ten years. She is one in a million."
-    }
-  ],
-  "languages": [
+    "references": [],
+    "languages": [
     {
       "language": "English",
-      "level": "Native"
-    },
-    {
-      "language": "Spanish",
-      "level": "Moderate",
-      "years": 10
+      "level": "Native Speaker"
     }
   ],
   "education": [
     {
       "institution": "South Dakota School of Mines & Technology",
-      "area": "Chemical Engineering",
-      "studyType": "M.S.",
+      "area": "M.S. Chemical Engineering",
+      "studyType": "",
       "startDate": "1994-09-01",
       "endDate": "1998-05-01",
       "gpa": "",
@@ -208,8 +181,8 @@
     },
     {
       "institution": "University of South Dakota",
-      "area": "Chemistry/mathematics",
-      "studyType": "B.S.",
+      "area": "B.S. Chemistry/mathematics",
+      "studyType": "",
       "startDate": "1998-09-01",
       "endDate": "1993-05-01",
       "gpa": "",
