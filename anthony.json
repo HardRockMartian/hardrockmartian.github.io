@@ -52,7 +52,7 @@
       "website": "",
       "startDate": "2001-08-01",
       "endDate": "2002-01-01",
-      "summary": "Chemican Engineering Research Contractor",
+      "summary": "Chemical Engineering Research Contractor",
       "highlights": [
         "Conducted aeronautic product development research for Solutia (now a subsidiary of Eastman Chemical). I synthesized candidate corrosion inhibiting additives, built our testing rig, created analytical process controls in LabView and developed signal processing methods for detecting subtle changes in material behavior caused by corrosion."
       ]
@@ -209,7 +209,7 @@
     {
       "institution": "South Dakota School of Mines & Technology",
       "area": "M.S. Chemical Engineering",
-      "studyType": "",
+        "studyType": "Thesis: Thermodynamic Modeling of Supercritical Fluids in Polymer Mixtures",
       "startDate": "1994-09-01",
       "endDate": "1998-05-01",
       "gpa": "",
