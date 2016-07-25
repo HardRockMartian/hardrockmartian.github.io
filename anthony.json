@@ -164,11 +164,47 @@
   ],
     "references": [],
     "languages": [
-    {
-      "language": "English",
-      "level": "Native Speaker"
-    }
-  ],
+        {
+            "language": "Numerical Python",
+            "level": "Expert"
+        },
+        {
+            "language": "IDL",
+            "level": "Expert"
+        },
+        {
+            "language": "Matlab",
+            "level": "Expert"
+        },
+        {
+            "language": "Compiled C & FORTRAN Extensions",
+            "level": "Expert"
+        },
+        {
+            "language": "Marc & Mentat Finite Element",
+            "level": "Expert"
+        },
+        {
+            "language": "LabView",
+            "level": "Expert"
+        },
+        {
+            "language": "ArcGIS & STK",
+            "level": "Expert"
+        },
+        {
+            "language": "SQL geo-databases",
+            "level": "Expert"
+        },
+        {
+            "language": "UNIX Pipeline Scripts",
+            "level": "Expert"
+        },
+        {
+            "language": "Agile Development with GIT",
+            "level": "Expert"
+        }
+    ],
   "education": [
     {
       "institution": "South Dakota School of Mines & Technology",
